@@ -4,10 +4,7 @@
  */
 package student;
 
-/**
- *
- * @author carte
- */
+/* author:Carter */
 public class ReverseWord {
 
     /**
